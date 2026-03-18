@@ -1,4 +1,4 @@
-### Hi there, I'm HeeJae
+### I'm HeeJae
 
 백엔드 개발자입니다.
 
@@ -19,3 +19,7 @@
 ---
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Heyaaz&theme=tokyonight&hide_border=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heyaaz&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heyaaz&layout=compact)
