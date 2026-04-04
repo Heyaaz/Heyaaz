@@ -26,7 +26,3 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Heyaaz)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heyaaz&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heyaaz&layout=compact)
